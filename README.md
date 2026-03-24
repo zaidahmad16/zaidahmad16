@@ -1,66 +1,134 @@
-# Hey, I'm Zaid 👋
+<div align="center">
 
-2nd year CS student @ Carleton University — AI & Machine Learning stream.
-I build full-stack web apps and love turning ideas into real products.
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║      Z A I D   A H M A D   —   Software Engineer        ║
+║      CS @ Carleton University  ·  Ottawa, Canada         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+[![Portfolio](https://img.shields.io/badge/↗_zaidahmad.dev-0a0a0a?style=for-the-badge)](https://zaidahmad.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-ahmad-ba9b10224)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidahmad8060@gmail.com)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### `$ whoami`
+
+> 2nd-year Computer Science student specializing in **AI & Machine Learning** at Carleton University.
+> I build full-stack products from zero to deployed — with a focus on clean architecture and real-world impact.
+> Currently running [**BuildAtlas**](https://github.com/zaidahmad16/BuildAtlas) and volunteering as Logistics Coordinator @ [cuHacking](https://cuhacking.ca).
+
+---
+
+### `$ ls ./stack`
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Languages**
+```
+C++         ████████░░
+JavaScript  ███████░░░
+TypeScript  ██████░░░░
+Python      █████░░░░░
+Java        █████░░░░░
+C           ████░░░░░░
+```
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-**Frameworks & Libraries**
+**Frontend**
+```
+React / Next.js
+Tailwind CSS
+React Flow
+Framer Motion
+HTML / CSS
+```
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=flat-square&logo=react&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-**Tools & Platforms**
+**Backend & Tools**
+```
+Node.js / Express
+MongoDB
+Firebase
+GitHub Actions
+Linux  ·  Git
+Netlify  ·  Render
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+### `$ cat ./projects`
 
-**[BuildAtlas](https://github.com/zaidahmad16/BuildAtlas)** — CI/CD pipeline visualizer that fetches GitHub Actions data and renders interactive workflow graphs using React Flow. Built with Next.js, TypeScript, and a modular Node.js backend.
+<table>
+<tr>
+<td width="50%">
 
-**[ShelterMatch Ottawa](https://github.com/zaidahmad16/cuHacking2025)** — Hackathon project helping Ottawa residents find shelters via a Tinder-style swipe UI with filtering by gender, religion, and services. Live at [sheltermatchottawa.shop](https://sheltermatchottawa.shop).
+#### 🔷 [BuildAtlas](https://github.com/zaidahmad16/BuildAtlas)
+CI/CD pipeline visualizer — fetches GitHub Actions workflows and renders them as interactive node graphs.
 
-**[Multithreaded C Simulation](https://github.com/zaidahmad16/COMP2401)** — Concurrent agent simulation using POSIX threads and semaphores with deadlock prevention.
+`Next.js` `TypeScript` `React Flow` `Node.js` `OAuth`
+
+</td>
+<td width="50%">
+
+#### 🔶 [ShelterMatch Ottawa](https://github.com/zaidahmad16/cuHacking2025)
+Hackathon build — Tinder-style UI matching Ottawa residents to shelters by gender, religion & services. Live at **[sheltermatchottawa.shop](https://sheltermatchottawa.shop)**
+
+`Next.js` `Express` `Framer Motion` `Tailwind`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### ⚙️ [Multithreaded C Simulation](https://github.com/zaidahmad16/COMP2401)
+Concurrent agent simulation using POSIX threads, semaphores, and deadlock prevention strategies.
+
+`C` `POSIX Threads` `Systems Programming`
+
+</td>
+<td width="50%">
+
+#### 🌐 [Portfolio](https://zaidahmad.dev)
+Personal site with clean UI and interactive elements.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📬 Get in Touch
+### `$ cat ./activity`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zaidahmad.dev-000?style=flat-square&logo=googlechrome&logoColor=white)](https://zaidahmad.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaid_Ahmad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-ahmad-ba9b10224)
-[![Email](https://img.shields.io/badge/Email-zaidahmad8060@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zaidahmad8060@gmail.com)
-**zaidahmad16/zaidahmad16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaidahmad16&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&icon_color=4493f8&bg_color=0d1117)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidahmad16&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&bg_color=0d1117)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+*Building things that matter, one commit at a time.*
+
+</div>

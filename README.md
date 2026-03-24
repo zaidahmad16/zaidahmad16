@@ -86,7 +86,7 @@ CI/CD pipeline visualizer — fetches GitHub Actions workflows and renders them 
 </td>
 <td width="50%">
 
-#### 🔶 [ShelterMatch Ottawa](https://github.com/zaidahmad16/cuHacking2025)
+#### 🔶 [ShelterMatch Ottawa](https://github.com/zaidahmad16/cuHacking-2025-Project)
 Hackathon build — Tinder-style UI matching Ottawa residents to shelters by gender, religion & services. Live at **[sheltermatchottawa.shop](https://sheltermatchottawa.shop)**
 
 `Next.js` `Express` `Framer Motion` `Tailwind`
@@ -96,7 +96,7 @@ Hackathon build — Tinder-style UI matching Ottawa residents to shelters by gen
 <tr>
 <td width="50%">
 
-#### ⚙️ [Multithreaded C Simulation](https://github.com/zaidahmad16/COMP2401)
+#### ⚙️ [Multithreaded C Simulation](https://github.com/zaidahmad16/COMP2401-Final-Project)
 Concurrent agent simulation using POSIX threads, semaphores, and deadlock prevention strategies.
 
 `C` `POSIX Threads` `Systems Programming`
@@ -104,14 +104,19 @@ Concurrent agent simulation using POSIX threads, semaphores, and deadlock preven
 </td>
 <td width="50%">
 
-#### 🌐 [Portfolio](https://zaidahmad.dev)
-Personal site with clean UI and interactive elements.
+#### 🌐 [Portfolio](https://github.com/zaidahmad16/ZaidAhmadWebsite)
+Personal site with clean UI and interactive elements. Live at **[zaidahmad.dev](https://zaidahmad.dev)**
 
 `HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 </table>
+
+#### 🃏 [DS Business Card](https://github.com/zaidahmad16/DS_Business_Card)
+A digital business card project.
+
+`Design` `Web`
 
 ---
 

@@ -78,7 +78,7 @@ Netlify  ·  Render
 <tr>
 <td width="50%">
 
-#### 🔷 [BuildAtlas](https://github.com/zaidahmad16/BuildAtlas)
+#### 🔷 [BuildAtlas](https://github.com/buildAtlasOrg)
 CI/CD pipeline visualizer — fetches GitHub Actions workflows and renders them as interactive node graphs.
 
 `Next.js` `TypeScript` `React Flow` `Node.js` `OAuth`

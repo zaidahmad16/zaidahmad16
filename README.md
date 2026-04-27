@@ -17,32 +17,27 @@
 
 ---
 
-### `$ whoami`
+### 🚀 About Me
 
-> 2nd-year Computer Science student specializing in **AI & Machine Learning** at Carleton University.
-> I build full-stack products from zero to deployed — with a focus on clean architecture and real-world impact.
-> Currently running [**BuildAtlas**](https://github.com/zaidahmad16/BuildAtlas) and volunteering as Logistics Coordinator @ [cuHacking](https://cuhacking.ca).
+I’m a 2nd-year Computer Science student at Carleton University building full-stack products with strong AI, cloud, and systems foundations.
+
+- Focus areas: full-stack development, production-ready architecture, developer workflows, and user-centered interfaces.
+- Currently leading [**BuildAtlas**](https://github.com/zaidahmad16/BuildAtlas) and supporting event logistics at [cuHacking](https://cuhacking.ca).
+- Always looking for internships or collaboration opportunities in software engineering, ML, and developer tooling.
 
 ---
 
-### `$ ls ./stack`
-
-<table>
-<tr>
-<td valign="top" width="33%">
+### 💼 Skills
 
 **Languages**
 ```
-C++         ████████░░
-JavaScript  ███████░░░
-TypeScript  ██████░░░░
-Python      █████░░░░░
-Java        █████░░░░░
-C           ████░░░░░░
+C++       ████████░░
+JavaScript███████░░░
+TypeScript██████░░░░
+Python    █████░░░░░
+Java      █████░░░░░
+C         ████░░░░░░
 ```
-
-</td>
-<td valign="top" width="33%">
 
 **Frontend**
 ```
@@ -53,74 +48,53 @@ Framer Motion
 HTML / CSS
 ```
 
-</td>
-<td valign="top" width="33%">
-
 **Backend & Tools**
 ```
 Node.js / Express
 MongoDB
 Firebase
 GitHub Actions
-Linux  ·  Git
-Netlify  ·  Render
+Linux · Git
+Netlify · Render
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
-### `$ cat ./projects`
+### 🌟 Selected Projects
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🔷 [BuildAtlas](https://github.com/buildAtlasOrg)
-CI/CD pipeline visualizer — fetches GitHub Actions workflows and renders them as interactive node graphs.
+#### 🔷 [BuildAtlas](https://github.com/zaidahmad16/BuildAtlas)
+CI/CD observability platform that visualizes GitHub Actions pipelines as interactive node graphs, makes workflow structure visible, and improves developer feedback loops.
 
 `Next.js` `TypeScript` `React Flow` `Node.js` `OAuth`
 
-</td>
-<td width="50%">
-
 #### 🔶 [ShelterMatch Ottawa](https://github.com/zaidahmad16/cuHacking-2025-Project)
-Hackathon build — Tinder-style UI matching Ottawa residents to shelters by gender, religion & services. Live at **[sheltermatchottawa.shop](https://sheltermatchottawa.shop)**
+Hackathon web app that connects Ottawa residents with shelters using filtering by gender, religion, services, and accessibility. Includes swipe-style matching, real shelter data, and polished UX.
 
 `Next.js` `Express` `Framer Motion` `Tailwind`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### ⚙️ [Multithreaded C Simulation](https://github.com/zaidahmad16/COMP2401-Final-Project)
-Concurrent agent simulation using POSIX threads, semaphores, and deadlock prevention strategies.
-
-`C` `POSIX Threads` `Systems Programming`
-
-</td>
-<td width="50%">
-
 #### 🌐 [Portfolio](https://github.com/zaidahmad16/ZaidAhmadWebsite)
-Personal site with clean UI and interactive elements. Live at **[zaidahmad.dev](https://zaidahmad.dev)**
+Responsive personal website with a clean visual system, fast page performance, and a professional brand presence. Live at **[zaidahmad.dev](https://zaidahmad.dev)**.
 
 `HTML` `CSS` `JavaScript`
 
-</td>
-</tr>
-</table>
+#### ⚙️ [Multithreaded C Simulation](https://github.com/zaidahmad16/COMP2401-Final-Project)
+Concurrent agent simulation demonstrating POSIX thread coordination, semaphore-based synchronization, and deadlock prevention techniques.
 
-#### 🃏 [DS Business Card](https://github.com/zaidahmad16/DS_Business_Card)
-A digital business card project.
+`C` `POSIX Threads` `Systems Programming`
 
-`Design` `Web`
+#### 🛠️ [mac80211-ht-downgrade-fix](https://github.com/zaidahmad16/mac80211-ht-downgrade-fix)
+Linux kernel wireless patch/research project focused on driver compatibility and performance in the mac80211 stack.
+
+`C` `Linux` `Networking`
+
+#### 🎯 [Battleship-Game](https://github.com/zaidahmad16/Battleship-Game)
+Python terminal game with turn-based strategy, grid validation, and an intelligent opponent experience.
+
+`Python` `CLI`
 
 ---
 
-### `$ cat ./activity`
+### 📈 Activity
 
 <div align="center">
 

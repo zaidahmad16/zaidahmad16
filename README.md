@@ -87,10 +87,10 @@ Linux kernel wireless patch/research project focused on driver compatibility and
 
 `C` `Linux` `Networking`
 
-#### 🎯 [Battleship-Game](https://github.com/zaidahmad16/Battleship-Game)
-Python terminal game with turn-based strategy, grid validation, and an intelligent opponent experience.
+#### � [DS Business Card](https://github.com/zaidahmad16/DS_Business_Card)
+Digital business card project with an interactive web experience that showcases design and contact details in a polished presentational format.
 
-`Python` `CLI`
+`Design` `Web` `HTML` `CSS`
 
 ---
 

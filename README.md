@@ -88,9 +88,9 @@ Linux kernel wireless patch/research project focused on driver compatibility and
 `C` `Linux` `Networking`
 
 #### � [DS Business Card](https://github.com/zaidahmad16/DS_Business_Card)
-Digital business card project with an interactive web experience that showcases design and contact details in a polished presentational format.
+Nintendo DS homebrew application that doubles as an interactive digital business card. The top screen shows a live Counting Sort visualization while the bottom screen displays contact and academic information.
 
-`Design` `Web` `HTML` `CSS`
+`C` `Embedded` `Homebrew` `Algorithms`
 
 ---
 

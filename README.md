@@ -82,6 +82,11 @@ Concurrent agent simulation demonstrating POSIX thread coordination, semaphore-b
 
 `C` `POSIX Threads` `Systems Programming`
 
+#### 🎮 [BlunderUnity](https://github.com/vinit-rao/BlunderUnity)
+Work-in-progress 2D platformer game built in Unity, exploring game mechanics, physics, and level design.
+
+`C#` `Unity` `Game Dev`
+
 #### 🛠️ [mac80211-ht-downgrade-fix](https://github.com/zaidahmad16/mac80211-ht-downgrade-fix)
 Linux kernel wireless patch/research project focused on driver compatibility and performance in the mac80211 stack.
 

@@ -22,13 +22,21 @@ Open to internships in systems, embedded, or full-stack engineering.
 
 ### Skills
 
-**Languages** &nbsp; `C` `C++` `Python` `JavaScript` `TypeScript` `C#`
+**Languages**
 
-**Embedded & Systems** &nbsp; `STM32` `ARM Cortex-M4` `DKMS` `POSIX Threads` `Bare-Metal` `devkitARM` `Linux Kernel`
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,cs&theme=dark" />
 
-**Web & Tooling** &nbsp; `Node.js` `React` `Next.js` `Vercel` `MongoDB` `Git` `GitHub Actions`
+**Web & Tooling**
 
-**Other** &nbsp; `Unity` `Firebase` `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vercel,mongodb,firebase,tailwind,git,github&theme=dark" />
+
+**Embedded & Systems**
+
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" /> &nbsp; `STM32` `ARM Cortex-M4` `POSIX Threads` `DKMS` `devkitARM`
+
+**Other**
+
+<img src="https://skillicons.dev/icons?i=unity&theme=dark" />
 
 ---
 

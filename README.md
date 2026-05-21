@@ -24,19 +24,15 @@ Open to internships in systems, embedded, or full-stack engineering.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java&theme=dark" />
 
 **Web & Tooling**
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vercel,mongodb,firebase,tailwind,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,git,nodejs,react,nextjs,firebase,mongodb,postgresql,supabase,neon,tailwind,githubactions&theme=dark" />
 
 **Embedded & Systems**
 
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" /> &nbsp; `STM32` `ARM Cortex-M4` `POSIX Threads` `DKMS` `devkitARM`
-
-**Other**
-
-<img src="https://skillicons.dev/icons?i=unity&theme=dark" />
+`STM32` `ARM Cortex-M4` `POSIX Threads` `DKMS` `devkitARM`
 
 ---
 

@@ -14,9 +14,21 @@ CS @ Carleton University &nbsp;·&nbsp; Ottawa, Canada
 
 CS student at Carleton building across the full depth of the stack — Linux kernel patches, bare-metal firmware on Cortex-M4, and deployed web apps. Drawn to problems where the constraints are physical: clock cycles, memory layouts, hardware registers.
 
-Currently shipping [CarletonCourseMap](https://carletoncoursemap.ca). Open to internships in systems, embedded, or full-stack engineering.
+Open to internships in systems, embedded, or full-stack engineering.
 
 <br/>
+
+---
+
+### Skills
+
+**Languages** &nbsp; `C` `C++` `Python` `JavaScript` `TypeScript` `C#`
+
+**Embedded & Systems** &nbsp; `STM32` `ARM Cortex-M4` `DKMS` `POSIX Threads` `Bare-Metal` `devkitARM` `Linux Kernel`
+
+**Web & Tooling** &nbsp; `Node.js` `React` `Next.js` `Vercel` `MongoDB` `Git` `GitHub Actions`
+
+**Other** &nbsp; `Unity` `Firebase` `Tailwind CSS`
 
 ---
 

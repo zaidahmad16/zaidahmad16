@@ -12,11 +12,37 @@ CS @ Carleton University &nbsp;·&nbsp; Ottawa, Canada
 
 <br/>
 
-CS student at Carleton building across the full depth of the stack — Linux kernel patches, bare-metal firmware on Cortex-M4, and deployed web apps. Drawn to problems where the constraints are physical: clock cycles, memory layouts, hardware registers.
-
-Open to internships in systems, embedded, or full-stack engineering.
+CS student at Carleton in the AI & Machine Learning Co-op stream. Most of my time goes to systems programming, algorithms, and math. I build things at every layer — Linux kernel patches, bare-metal firmware, and full-stack web apps.
 
 <br/>
+
+---
+
+### Experience
+
+**Project Officer (FSWEP)** &nbsp;·&nbsp; [Immigration, Refugees and Citizenship Canada](https://www.canada.ca/en/immigration-refugees-citizenship.html) &nbsp;·&nbsp; *Jun 2026 – Aug 2026*
+
+Wrote Python automation for the IT Capacity Management team that cut down on a lot of manual work. Turned client conversations into structured requirements and put together intake reports that made it to senior management briefings.
+
+`Python` `Power Automate` `Government IT`
+
+<br/>
+
+**Logistics Coordinator** &nbsp;·&nbsp; [cuHacking](https://cuhacking.ca) &nbsp;·&nbsp; *Sep 2025 – Present*
+
+Helping run Carleton's annual hackathon. Venues, schedules, sponsors — the stuff that has to work for everything else to work.
+
+---
+
+### Education
+
+**B.Sc. Computer Science** &nbsp;·&nbsp; Carleton University &nbsp;·&nbsp; *2024 – 2029*
+
+AI & Machine Learning Co-op stream, though most of my time goes to systems programming, algorithms, and math.
+
+`Data Structures` `Systems Programming` `C/C++` `Linear Algebra` `Discrete Structures`
+
+**Government of Canada Reliability Status Security Clearance** &nbsp;·&nbsp; *Issued 2026*
 
 ---
 
@@ -28,7 +54,7 @@ Open to internships in systems, embedded, or full-stack engineering.
 
 **Web & Tooling**
 
-<img src="https://skillicons.dev/icons?i=linux,git,nodejs,react,nextjs,firebase,mongodb,postgresql,supabase,neon,tailwind,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,git,nodejs,express,react,nextjs,fastapi,firebase,mongodb,postgresql,supabase,tailwind,githubactions,bash&theme=dark" />
 
 **Embedded & Systems**
 
@@ -38,51 +64,43 @@ Open to internships in systems, embedded, or full-stack engineering.
 
 ### Projects
 
-**[mac80211-ht-downgrade-fix](https://github.com/zaidahmad16/mac80211-ht-downgrade-fix)**
+**[Carleton Course Map](https://github.com/zaidahmad16/CarletonCourseMap)**
 
-Linux kernel patch fixing a Wi-Fi 6 throughput regression. Malformed HT Operation beacons from certain routers cause `mac80211` to fall back to legacy 802.11g speeds. A single targeted fix to `mlme.c` — mirroring validation already present in the VHT codepath — restores full throughput without breaking compatibility. Ships via DKMS; rebuilds automatically on kernel updates. **54 Mbps → 1036 Mbps on affected hardware.**
+My program didn't have a course map. I built one for every program at Carleton — prerequisites as a DAG, REST API, drag-and-drop semester planner.
 
-`C` `Linux Kernel` `mac80211` `DKMS`
-
-<br/>
-
-**[stm32-doom-loader](https://github.com/zaidahmad16/stm32-doom-loader)**
-
-Bare-metal bootloader for the STM32F401RE — the foundation for eventually running Doom on a microcontroller. No HAL, no RTOS. Custom linker script, hand-written startup assembly, CRC32 verification of staged application images before jump-to-execution. A Python utility pads and footers the binary; a bad checksum traps instead of running corrupt code. ILI9341 display driver and SD card interface in progress.
-
-`C` `STM32` `ARM Cortex-M4` `Bare-Metal` `Python`
+`Python` `Parsel` `FastAPI` `PostgreSQL` `Next.js` `React Flow`
 
 <br/>
 
-**[DS Business Card](https://github.com/zaidahmad16/DS_Business_Card)**
+**[STM32 Doom Bootloader](https://github.com/zaidahmad16/stm32-doom-loader)**
 
-Nintendo DS homebrew that doubles as an interactive business card. The top screen runs a live step-by-step Counting Sort visualization at 60 FPS via VBlank sync; the bottom screen renders a static contact card. Direct VRAM writes and DMA transfers keep the rendering pipeline off the CPU. Cross-compiled for the ARM9 with devkitARM; validated on real hardware (Nintendo 3DS XL).
+I wanted to understand how something actually boots, so I wrote a bootloader from scratch. No HAL, no game engine — bare-metal SPI on an STM32F4 loading shareware Doom off an SD card.
 
-`C` `devkitARM` `libnds` `ARM9` `DMA`
-
-<br/>
-
-**[CarletonCourseMap](https://github.com/zaidahmad16/CarletonCourseMap)**
-
-Web app for exploring Carleton University's full course catalog interactively. A Python scraper pulls and normalizes course data from Carleton's systems into a structured dataset; a JavaScript frontend surfaces it cleanly. Deployed on Vercel and live at [carletoncoursemap.ca](https://carletoncoursemap.ca).
-
-`Python` `JavaScript` `Web Scraping` `Vercel`
+`C` `ARM Cortex-M4` `Linker Scripts` `OpenOCD` `STM32F4`
 
 <br/>
 
-**[COMP2401 — Multithreaded Simulation](https://github.com/zaidahmad16/COMP2401-Final-Project)**
+**[Linux Wireless Kernel Patch](https://github.com/zaidahmad16/mac80211-ht-downgrade-fix)**
 
-Concurrent ghost-hunt simulation in C. Hunters and a ghost move through a 13-room building on independent POSIX threads. Semaphores protect shared state; deadlock prevention uses ordered mutex acquisition across room addresses. Hunters collect bitwise-matched evidence while fear and boredom thresholds drive emergent behavior. Pure C — no external libraries.
+My Wi-Fi was capped at 54 Mbps. Should have been 1 Gbps. I traced the bug through the mac80211 stack, wrote the patch, and fixed it in the kernel.
 
-`C` `POSIX Threads` `Semaphores` `Systems Programming`
+`C` `Linux Kernel` `Wireless Networking` `mac80211`
 
 <br/>
 
-**[Suburban Street Brawl](https://github.com/vinit-rao/SuburbanStreetBrawlUnity)**
+**[Nintendo DS Business Card](https://github.com/zaidahmad16/DS_Business_Card)**
 
-Collaborative 2D brawler in Unity. Combat mechanics, physics-driven movement, level design. Active development.
+My business card boots on a Nintendo DS. Plug it in, play a short game, get my contact info at the end. Pure C, no SDK game engine, runs on real hardware.
 
-`C#` `Unity`
+`C` `NDS SDK` `ARM` `Homebrew`
+
+<br/>
+
+**[Ghost Hunting Simulation](https://github.com/zaidahmad16/COMP2401-Final-Project)**
+
+A ghost hunting simulation in C where every actor is its own POSIX thread on shared memory. Spent a while on the deadlock prevention. Zero deadlocks across 1,000+ ticks.
+
+`C` `POSIX Threads` `Semaphores` `Linux`
 
 ---
 

@@ -24,6 +24,12 @@ Free map of Ontario road test routes. Reconstructs 13 routes across 3 test centr
 
 `Python` `PaddleOCR` `pyosmium` `HDBSCAN` `FastAPI` `PostgreSQL` `React` `Leaflet`
 
+### [Salah](https://github.com/zaidahmad16/Salah) · [write-up](https://zaidahmad.dev/projects/salah)
+
+Prayer times app for the Linux Mint desktop. Shows your mosque's own published timetable, and when it can't download that, reproduces it from a calculation method fitted to the timetable: 99.2% of times exact against my mosque, never more than a minute off. GTK4 window plus a Cinnamon panel applet with reminders.
+
+`Python` `GTK4` `libadwaita` `GJS` `Cinnamon`
+
 ### [Nintendo DS Business Card](https://github.com/zaidahmad16/DS_Business_Card)
 
 A business card that boots on a Nintendo DS. Play a short game and get my contact info at the end. Written in C.
